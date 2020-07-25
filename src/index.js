@@ -14,7 +14,7 @@ window.Popper = Popper
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App title="React + Bootstrap 4" slogan="It's a Power of Code" />
   </React.StrictMode>,
   document.getElementById('root')
 );
