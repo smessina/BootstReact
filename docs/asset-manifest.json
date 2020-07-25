@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BootstReact/static/css/main.281f06d7.chunk.css",
+    "main.js": "/BootstReact/static/js/main.90baeef6.chunk.js",
+    "main.js.map": "/BootstReact/static/js/main.90baeef6.chunk.js.map",
+    "runtime-main.js": "/BootstReact/static/js/runtime-main.56528803.js",
+    "runtime-main.js.map": "/BootstReact/static/js/runtime-main.56528803.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/BootstReact/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.72412679.chunk.js": "/BootstReact/static/js/2.72412679.chunk.js",
+    "static/js/2.72412679.chunk.js.map": "/BootstReact/static/js/2.72412679.chunk.js.map",
+    "index.html": "/BootstReact/index.html",
+    "precache-manifest.e63624dcfa54c09c1ac55a477a51f580.js": "/BootstReact/precache-manifest.e63624dcfa54c09c1ac55a477a51f580.js",
+    "service-worker.js": "/BootstReact/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/BootstReact/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.281f06d7.chunk.css.map": "/BootstReact/static/css/main.281f06d7.chunk.css.map",
+    "static/js/2.72412679.chunk.js.LICENSE.txt": "/BootstReact/static/js/2.72412679.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/BootstReact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56528803.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.72412679.chunk.js",
+    "static/css/main.281f06d7.chunk.css",
+    "static/js/main.90baeef6.chunk.js"
+  ]
+}
